@@ -4,6 +4,7 @@ DSA210 Term Project – Umut Tekinalp
 Project Proposal:
 The goal of this project is to investigate whether younger football players are transferred for higher fees.
 The football transfer market strongly emphasizes player potential, future performance, and resale value.
+
 This study aims to:
 
 Examine how player age relates to transfer fee.
@@ -13,7 +14,9 @@ Provide statistical evidence for or against the hypothesis that younger players 
 The project uses exploratory data analysis, visualization, and statistical hypothesis testing to support conclusions.
 
 Data Description:
+
 The dataset contains Premier League football transfer records, with each row representing a single player transfer.
+
 Key variables include:
 
 player_name – Name of the transferred player
@@ -29,6 +32,7 @@ league_name, season, year, country
 After cleaning, approximately 9,000 records contain valid age and fee information.
 
 Data Collection Plan:
+
 The dataset was obtained from a structured CSV file published as part of football transfer records.
 
 The data was imported using pandas and cleaned by:
@@ -36,9 +40,11 @@ The data was imported using pandas and cleaned by:
 Removing missing values in age and fee fields.
 Converting transfer fee strings to numeric format.
 Creating a new binary feature:
+
 high_fee = 1 if transfer fee ≥ dataset median, else 0.
 
 All analysis operations (EDA, plots, t-test, correlation) were performed using:
+
 pandas
 numpy
 matplotlib / seaborn
@@ -46,6 +52,7 @@ scipy.stats
 No additional data sources were required; all work was done on the provided dataset.
 
 Planned Outcome:
+
 By the end of the project, the following outcomes are expected:
 
 1. Understand age distribution of transferred players
