@@ -1,11 +1,7 @@
 # Premier League Transfer Spending vs Team Performance
 
-## Kerem Ersoy – 31225  
+## Umut Tekinalp - 31137
 ### DSA210 Introduction to Data Science — Term Project
-
-This project explores a simple but interesting question:
-
-**Do Premier League teams that spend more on transfers perform better within a season?**
 
 Using publicly available transfer data and season-level club statistics, the project examines
 the relationship between transfer spending and team performance metrics such as goals scored,
