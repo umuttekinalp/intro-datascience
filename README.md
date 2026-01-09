@@ -5,7 +5,8 @@
 
 # Motivation
 
-This project examines whether higher transfer spending leads to better team performance in the English Premier League. Football clubs invest significant amounts of money in player transfers, and this study aims to understand if this investment translates into success on the field.
+Football clubs invest heavily in player transfers, yet the extent to which spending translates into on-field success remains unclear. This project aims to quantitatively analyze whether higher transfer expenditures lead to better league performance in the Premier League.
+
 
 # Research Questions
 
